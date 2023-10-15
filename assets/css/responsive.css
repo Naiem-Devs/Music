@@ -1,0 +1,1000 @@
+/* Big screen :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+    .Hero-area { 
+        clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 0% 85%);
+    }
+    .live-dates-area img.background { 
+        width: 100%; 
+        height: 100%;
+    }
+    .live-dates-area { 
+        overflow: hidden;
+    }
+    .albam-middle .single-albam {
+        min-width: 365px;
+        width: 365px;
+        height: 380px; 
+    }
+    .single-albam img.al-img { 
+        width: 100%;
+        height: 100%;
+    }
+    .faq-area .snapes span.snape-two { 
+        position: relative;
+        top: -40px;
+    }
+    .blog-area img.background {
+        bottom: -445px;
+        height: 465px;
+    } 
+    .music-item a { 
+        width: 70px;
+        height: 70px; 
+    }
+    .live-dates-area .snapes.bottom span.snape-one {
+        width: 350px;
+        height: 350px;
+        margin-right: -260px;
+    }
+    .live-dates-area .snapes.bottom span.snape-two {
+        width: 135px;
+        height: 135px;
+    } 
+    .live-dates-area.live-dates { 
+        padding-top: 300px;
+    }
+
+
+}
+
+
+/* Normal screen :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+    .Hero-area { 
+        clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 0% 85%);
+    }
+    .live-dates-area img.background { 
+        width: 100%; 
+        height: 100%;
+    }
+    .live-dates-area { 
+        overflow: hidden;
+    }
+    .albam-middle .single-albam {
+        min-width: 300px;
+        width: 300px;
+        height: 300px;
+    }
+    .single-albam img.al-img { 
+        width: 100%;
+        height: 100%;
+    }
+    .faq-area .snapes span.snape-two { 
+        position: relative;
+        top: -40px;
+    }
+    .single-albam.sm-blk {
+        min-width: 280px;
+        height: 280px; 
+    }
+    .squeir-snape-big { 
+        min-width: 130px;
+        min-height: 130px;
+        max-width: 130px;
+        max-height: 130px; 
+    }
+    .faq-wrp {
+        padding-left: 40px;
+        padding-bottom: 50px;
+    }
+    .share-blk .share-wrpper h4 {
+        font-size: 23px; 
+    }
+    .share-blk .share-wrpper {
+        padding: 40px 40px;
+    }
+    .wrepper-items h1 {
+        font-size: 110px; 
+    }
+    .wrepper-items p {
+        font-size: 29px; 
+    }
+    .Hero-area { 
+        height: 1010px; 
+    }
+    .listen-music-area:after { 
+        clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 0% 93%);
+    }
+    .faq-wrp h2 {
+        line-height: 55px; 
+        font-size: 57px;
+    }
+    .blog-area .snapes {
+        top: 14%;
+        right: 10%;
+    }
+    .blog-area img.background {
+        bottom: -356px;
+        height: 376px;
+    }
+    .listen-music-area.blog {
+        padding-top: 100px;
+        margin-top: 300px;
+    }
+    .listen-music-area img.background { 
+        height: auto; 
+    }
+    .live-dates-area .snapes {
+        position: absolute;
+        z-index: 9;
+        left: 60%;
+        top: 20%;
+    }
+    .live-dates-area .snapes.bottom span.snape-one {
+        width: 250px;
+        height: 250px;
+        margin-right: -260px;
+    }
+    .Being-social-area { 
+        padding-bottom: 270px; 
+    }
+    .listen-music-area .snapes.s-two span.snape-four {
+        width: 1000px;
+        height: 1000px; 
+        bottom: 140px; 
+        margin-right: -320px;
+    }
+    .listen-music-area .snapes.s-two span.snape-three { 
+        bottom: 641px; 
+        left: 7%;
+    }
+    .faq-area img.background { 
+        object-fit: cover;
+        object-position: left;
+    } 
+    .footer-and-signUp img.background { 
+        object-position: left;
+    }
+    .live-dates-area { 
+        padding-bottom: 515px; 
+    }
+    .live-dates-area .snapes.bottom span.snape-two {
+        width: 135px;
+        height: 135px; 
+    }
+    .listen-music-area.blog:after {
+        clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 0% 87%);
+    }
+    .footer-and-signUp.blog {
+        padding-top: 310px;
+        padding-bottom: 100px; 
+        margin-top: -280px; 
+    }
+    .Being-social-area.blog {
+        padding-top: 380px; 
+        clip-path: polygon(0% 0%, 100% 12%, 100% 100%, 0% 100%);
+    }
+
+    .Hero-area.blog .hero-wrp h1 {
+        font-size: 54px;
+        letter-spacing: 0px; 
+        line-height: 72px;
+    }
+    blockquote { 
+        padding-left: 65px; 
+    }
+    .listen-music-area.live-date img.background {
+        position: absolute;
+        top: -102px;
+        left: 0;
+        z-index: -1;
+        height: 100%;
+        width: 100%;
+        opacity: .4;
+        object-fit: cover;
+    }
+    .listen-music-area.live-date .section-title.center-title {
+        margin-bottom: 20px;
+    }    
+    .music-item a { 
+        width: 70px;
+        height: 70px; 
+    }  
+    .live-dates-area.live-dates { 
+        padding-top: 350px;
+    }
+
+}
+  
+ 
+/* Tablet screen :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    .Hero-area { 
+        clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 0% 85%);
+    }
+    .live-dates-area img.background {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        object-position: left;
+    }
+    .live-dates-area { 
+        overflow: hidden;
+    }
+    .albam-middle .single-albam {
+        min-width: 264px;
+        width: 230px;
+        height: 264px;
+    }
+    .single-albam img.al-img { 
+        width: 100%;
+        height: 100%;
+    }
+    .faq-area .snapes span.snape-two { 
+        position: relative;
+        top: -40px;
+    }
+    .single-albam.sm-blk {
+        min-width: 180px;
+        height: 180px;
+    }
+    .squeir-snape-big {
+        min-width: 90px;
+        min-height: 90px;
+        max-width: 90px;
+        max-height: 90px;
+    }
+    .faq-wrp {
+        padding-left: 0px;
+        padding-bottom: 50px;
+    }
+    .share-blk .share-wrpper h4 {
+        font-size: 23px; 
+    }
+    .share-blk .share-wrpper {
+        padding: 40px 40px;
+    }
+    .wrepper-items h1 {
+        font-size: 110px; 
+    }
+    .wrepper-items p {
+        font-size: 22px; 
+    }
+    .Hero-area { 
+        height: 820px; 
+    }
+    .listen-music-area:after {
+        clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 0% 95%);
+    }
+    .faq-wrp h2 {
+        line-height: 55px; 
+        font-size: 57px;
+    }
+    .Being-social-area img.background {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        z-index: -1;
+        object-fit: cover;
+        object-position: left;
+    }
+    .faq-area img.background { 
+        object-fit: cover;
+    }
+    .faq-area .snapes {
+        bottom: 40px;
+        left: 5%;
+    }
+    .faq {
+        margin-bottom: 80px;
+    }
+    .faq-wrp a.theme-btn { 
+        font-size: 17px; 
+    }
+    .Being-social-area {
+        padding-bottom: 185px;
+        padding-top: 400px;
+        margin-top: -75px;
+        clip-path: polygon(0% 0%, 100% 4%, 100% 100%, 0% 100%);
+    }
+    .wrepper-items h1 {
+        font-size: 70px;
+        letter-spacing: 0px;
+    }
+    a.theme-btn {
+        height: 70px; 
+        line-height: 65px; 
+        padding: 0 40px; 
+        font-size: 18px; 
+        font-weight: 700;
+    }
+    ul.slick-dots li button { 
+        width: 65px; 
+        font-size: 18px; 
+    } 
+    ul.slick-dots { 
+        left: 88%; 
+    }
+    a.theme-btn {
+        height: 60px;
+        line-height: 55px;
+        padding: 0 25px;
+        font-size: 14px; 
+    }
+    .wrepper-items a.play { 
+        letter-spacing: 2px; 
+        top: -3px; 
+        font-size: 15px;
+    }
+    .wrepper-items a.play img { 
+        padding: 6px;
+        background: #1B2550;
+        border-radius: 50%;
+        width: 60px;
+        margin-right: 5px;
+    }
+    .wrepper-items h4 {
+        width: 100%; 
+    }
+    .live-blk {
+        padding: 25px 0; 
+    }
+    .date-left {
+        margin-bottom: 30px;
+    }
+    .date-left h5 { 
+        width: 100%;
+        text-align: right;
+    }
+    .listen-music-area {  
+        padding-top: 300px;
+        margin-top: -270px;
+        padding-bottom: 220px; 
+    }
+    .listen-music-area .snapes.s-two span.snape-four {
+        width: 850px;
+        height: 850px; 
+        bottom: 0;
+    }
+    .single-albam a.mfp-play {
+        width: 90px;
+        height: 90px; 
+    }
+    .listen-music-area img.background { 
+        height: 885px; 
+    }
+    .live-dates-area .snapes.bottom span.snape-one { 
+        display: none;
+    }
+    .blog-area img.background {
+        position: absolute;
+        bottom: -420px;
+        left: 0;
+        width: 100%;
+        z-index: 5;
+        object-fit: cover;
+        height: 442px;
+    }
+    .Hero-area.blog .hero-wrp h1 {
+        font-size: 32px;
+        letter-spacing: 0px;
+        font-weight: 700;
+        line-height: 50px;
+    }
+    .listen-music-area.blog {
+        padding-top: 400px;
+        margin-top: 15px;
+    }
+    .blog-section.left {
+        margin-right: 0px;
+    }
+    .blog-section.right {
+        margin-right: 0px;
+    }
+    .blog-area .snapes {
+        top: 14%;
+        right: 15%;
+        display: none;
+    }
+    .live-dates-area {
+        position: relative;
+        z-index: 4;
+        padding-bottom: 270px;
+        padding-top: 120px;
+        clip-path: polygon(0% 0%, 100% 6%, 100% 100%, 0% 100%);
+        margin-top: -125px;
+    }
+    .live-dates-area .snapes.bottom span.snape-two {
+        width: 220px;
+        height: 220px;
+        margin-right: 0;
+        right: 20px;
+        top: 40px;
+        background: linear-gradient(140deg, #33C1D5, #461CFB); 
+    }
+    .live-dates-area .snapes.bottom {
+        top: auto;
+        bottom: 40px;
+        left: auto;
+        right: 0;
+    }
+    .section-title h2 { 
+        font-size: 50px;
+        font-weight: 600;
+        padding-bottom: 30px;
+        margin-bottom: 25px;
+    }
+    .live-dates-area .snapes { 
+        left: 65%;
+        top: 10%; 
+    }
+    .hero-wrp {
+        width: 80%;
+        margin: auto;
+    } 
+    .Hero-area.blog .hero-wrp a.theme-btn {
+        background: #032C9E;
+        margin-top: 30px;
+        border: none;
+    }
+    .Hero-area.blog .hero-wrp p { 
+        margin-bottom: 15px;
+    }
+    .live-dates-area.live-dates .snapes {
+        display: none;
+    }
+    .live-dates-area.live-dates {
+        padding-bottom: 400px;
+        padding-top: 270px;
+    }
+    .listen-music-area.live-date img.background {
+        position: absolute;
+        top: -102px;
+        left: 0;
+        z-index: -1;
+        height: 100%;
+        width: 100%;
+        opacity: .4;
+        object-fit: cover;
+    }
+    .listen-music-area.live-date .section-title.center-title {
+        margin-bottom: 20px;
+    }
+    .listen-music-area span.snape-two {
+        height: 420px;
+        width: 420px;
+        margin-left: -227px; 
+    }
+    .listen-music-area.live-date .snapes.one-snape {
+        left: 23%;
+        bottom: 0;
+        width: 130px;
+        height: 130px;
+        border-radius: 50%; 
+    }
+    .listen-music-area.live-date { 
+        margin-top: -370px; 
+    }
+
+    .music-item a { 
+        width: 50px;
+        height: 50px; 
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+ 
+/* small screen :320px. */
+@media (max-width: 767px) {
+    .Hero-area { 
+        clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 0% 85%);
+    }
+    .live-dates-area img.background {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        object-position: left;
+    }
+    .live-dates-area { 
+        overflow: hidden;
+        height: auto; 
+        padding-bottom: 365px;
+    }
+    .albam-middle .single-albam {
+        min-width: 100%;
+        width: 100%;
+        height: 295px;
+    }
+    .single-albam img.al-img { 
+        width: 100%;
+        height: 100%;
+    }
+    .faq-area .snapes span.snape-one {
+        width: 110px;
+        height: 110px;
+    }
+    .faq-area .snapes span.snape-two {
+        position: relative;
+        top: -40px;
+        width: 50px;
+        height: 50px;
+        margin-left: 194px;
+    }
+    .faq-area .snapes span.snape-three { 
+        top: 40px;
+        left: 130px; 
+    }
+    .single-albam.sm-blk {
+        height: 240px;
+        width: 100%;
+        min-width: 100%;
+        margin-bottom: 30px;
+    }
+    .squeir-snape-big { 
+        display: none;
+    }
+    .faq-wrp {
+        padding-left: 0px;
+        padding-bottom: 50px;
+    }
+    .share-blk .share-wrpper h4 {
+        font-size: 23px; 
+    }
+    .share-blk .share-wrpper {
+        padding: 40px 40px;
+    }
+    .wrepper-items h1 {
+        font-size: 110px; 
+    }
+    .wrepper-items p {
+        font-size: 17px;
+        line-height: 20px;
+    }
+    .Hero-area {
+        height: auto;
+        padding-bottom: 115px;
+        padding-top: 180px;
+        clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 0% 90%);
+    }
+    .listen-music-area:after {
+        clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 0% 98%);
+    }
+    .faq-wrp h2 {
+        line-height: 55px; 
+        font-size: 57px;
+    }
+    .Being-social-area img.background {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        z-index: -1;
+        object-fit: cover;
+        object-position: left;
+    }
+    .faq-area img.background { 
+        object-fit: cover;
+    }
+    .faq-area .snapes {
+        bottom: 40px;
+        left: 5%;
+    }
+    .faq {
+        margin-bottom: 80px;
+    }
+    .faq-wrp a.theme-btn { 
+        font-size: 17px; 
+    }
+    .Being-social-area {
+        padding-bottom: 90px;
+        padding-top: 110px;
+        margin-top: -41px;
+        clip-path: polygon(0% 0%, 100% 2%, 100% 100%, 0% 100%);
+    }
+    .wrepper-items h1 {
+        font-size: 36px;
+        letter-spacing: 0px;
+        margin-top: 15px !important;
+    }
+    a.theme-btn {
+        height: 50px;
+        line-height: 46px;
+        padding: 0 25px;
+        font-size: 14px;
+        letter-spacing: 3px;
+    }
+    ul.slick-dots li button { 
+        width: 65px; 
+        font-size: 18px; 
+    } 
+    ul.slick-dots { 
+        left: 88%; 
+    }
+    a.theme-btn {
+        height: 50px;
+        line-height: 50px;
+        padding: 0 25px;
+        font-size: 14px;
+    }
+    .wrepper-items a.play {
+        letter-spacing: 1px;
+        top: 0px;
+        font-size: 14px;
+        margin-top: 20px;
+        margin-left: 0;
+    }
+    .wrepper-items a.play img { 
+        padding: 6px;
+        background: #1B2550;
+        border-radius: 50%;
+        width: 60px;
+        margin-right: 5px;
+    }
+    .wrepper-items h4 {
+        width: 100%; 
+        height: 35px; 
+        font-size: 18px; 
+        letter-spacing: 3px;
+        line-height: 35px;
+    }
+    .live-blk {
+        padding: 25px 0; 
+    }
+    .date-left {
+        margin-bottom: 30px;
+        display: block;
+    }
+    .date-left h5 {
+        width: 100%;
+        text-align: left;
+        margin-top: 15px;
+        margin-left: 0;
+        font-size: 20px;
+    }
+    .listen-music-area {  
+        padding-top: 260px;
+        margin-top: -270px;
+        padding-bottom: 220px;
+    }
+    .single-albam a.mfp-play {
+        width: 90px;
+        height: 90px; 
+    }
+    .listen-music-area img.background {
+        height: 885px;
+        object-fit: cover;
+    }
+    .albams.d-flex.align-items-center {
+        display: block !important;
+    }
+    .section-title h2 {
+        font-size: 36px;
+        padding-bottom: 30px;
+        margin-bottom: 25px;
+        line-height: 40px;
+    }
+    .listen-music-area span.snape-one { 
+        left: 205px; 
+    }
+    .header-area .container-fluid {
+        padding: 0 15px;
+    }
+
+    .wrepper-items h4:after { 
+        width: 50px; 
+        border-left: 10px solid #FB516E;
+    }
+    .live-dates-area .section-title {
+        margin-bottom: 50px;
+    }
+    .live-blk .live-dates { 
+        width: 230px;
+    }
+    .live-blk a.theme-btn {
+        padding: 0;
+        width: 135px;
+        height: 45px;
+        line-height: 42px;
+        border: 2px solid #BBBECB;
+        font-size: 11px;
+        letter-spacing: 2px;
+    }
+    .dete-details p { 
+        font-size: 15px;
+    }
+    .albam-middle {
+        margin: 0 0px; 
+    }
+    .listen-music-area .snapes.s-one span.snape-two {
+        width: 65px;
+        height: 65px;
+        margin-left: 100px;
+        margin-top: 76px;
+        position: relative;
+        bottom: -24px;
+    }
+    .card-body { 
+        padding: 25px 0;
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    .card-body h4 {
+        font-size: 22px;
+        font-weight: 600;
+        line-height: 25px;
+    }
+    .card .card-header button.btn.btn-link { 
+        padding: 0px 20px;
+        padding-left: 30px; 
+        font-size: 20px;  
+        height: 100px;
+        line-height: 25px;
+    }
+    .card .card-header button.btn.btn-link.collapsed{
+        padding: 0px 20px;
+        padding-left: 30px; 
+        font-size: 20px;  
+        height: 100px;
+        line-height: 25px;
+    }
+    .nav-pills .nav-link {     
+        line-height: 15px;
+    }
+    .first-col {
+        margin-top: 50px;
+    }
+    .faq-wrp a.theme-btn { 
+        height: 55px;
+        line-height: 53px;
+        font-size: 14px; 
+        margin-top: 35px;
+    }
+    .faq-area {
+        padding-top: 270px;
+        padding-bottom: 375px;  
+    }
+    .footer-and-signUp img.background {
+        height: 100%;
+        object-fit: cover;
+        object-position: right center;
+    }
+    .footer-inner a.logo-img img {
+        width: 180px;
+        height: 40px;
+    }
+    .listen-music-area .snapes.s-two span.snape-four {
+        width: 490px;
+        height: 490px;
+        display: block;
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        background: #ffffff3d;
+        border-radius: 50%;
+        margin-right: -250px;
+    }
+    .footer-inner ul li a { 
+        font-size: 13px; 
+        margin: 0 5px; 
+    }
+    .footer-and-signUp { 
+        padding-bottom: 40px; 
+    }
+    .footer-inner a.logo-img { 
+        margin-bottom: 35px;
+    }
+    .signUp-are form button { 
+        height: 55px; 
+    }
+    .header-area.skicky-header.sticky { 
+        padding: 20px 0; 
+      }
+    .live-dates-area .snapes { 
+        display: none;
+    } 
+    .blog-area img.background {
+        position: absolute;
+        bottom: -325px;
+        left: 0;
+        width: 100%;
+        z-index: 5;
+        object-fit: cover;
+        height: 402px;
+    }
+    .blog-area .snapes {
+        display: none;
+    } 
+    blockquote {
+        margin-top: 80px;
+        font-size: 21px;
+        line-height: 28px;
+        position: relative;
+        padding-left: 40px;
+        color: #7C8092;
+    }
+    blockquote:after { 
+        height: 80px; 
+    }
+    .blog-section.left {
+        margin-right: 0px;
+        padding-top: 50px;
+    }
+    .blog-section.right {
+        margin-left: 0px;
+    }
+    .singl-blog .blog-img {
+        margin-bottom: 30px;
+    }
+    .singl-blog a.read-more {
+        margin-top: 25px; 
+        padding-left: 20px; 
+        letter-spacing: 4px;
+        line-height: 20px;
+    }
+    .listen-music-area.blog {
+        padding-top: 12px;
+        margin-top: 320px;
+    }
+    .Hero-area.blog .hero-wrp h1 {
+        font-size: 24px;
+        letter-spacing: 0px;
+        font-weight: 700;
+        line-height: 33px;
+    }
+    .Hero-area.blog .hero-wrp p {
+        font-size: 16px; 
+        letter-spacing: 5px;
+        margin-bottom: 20px;
+    } 
+    .Hero-area.blog .hero-wrp a.theme-btn {
+        background: #032C9E;
+        margin-top: 31px;
+    }
+    .live-dates-area {
+        position: relative;
+        z-index: 4;
+        padding-bottom: 370px;
+        padding-top: 95px;
+        clip-path: polygon(0% 0%, 100% 3%, 100% 100%, 0% 100%);
+        margin-top: -65px;
+    }
+
+    .view-all a { 
+        padding: 0px 20px;
+        padding-left: 40px; 
+        font-size: 22px; 
+        height: 85px;
+        line-height: 85px; 
+    }
+    .scroll-up { 
+        bottom: 20px;
+        right: 0px;
+        width: 30px;
+        height: 30px; 
+        line-height: 30px;
+        font-size: 16px;
+        border-radius: 5px; 
+    }
+    .scroll-up.scrolltop { 
+        right: 20px;
+    }
+    div#prealoder img {
+        width: 300px;
+    }
+    .listen-music-area.blog:after {
+        clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 0% 95%);
+    }
+    .Being-social-area.blog {
+        clip-path: polygon(0% 0%, 100% 5%, 100% 100%, 0% 100%);
+        margin-top: -95px;
+    }
+    .singl-blog .blog-img.b-border img { 
+        box-shadow: 10px -10px 0px -5px #1B2550;
+        border-top: 5px solid #fff;
+        border-right: 5px solid #fff;
+    }
+    .more-btn a.theme-btn { 
+        margin-top: 0px;
+    }
+    .Being-social-area.live-date img.round-img-snape {
+        position: absolute;
+        bottom: auto;
+        top:0;
+        left: -410px;
+        opacity: .5;
+    }
+    .live-dates-title h4 {
+        width: 100%;
+        height: 35px;
+        background: #33CBCC;
+        font-size: 28px;
+        padding-left: 10px;
+        position: relative;
+        letter-spacing: 5px;
+        line-height: 35px;
+    }
+    .live-dates-area.live-dates {
+        padding-top: 190px; 
+    }
+    .live-dates-title h2 {
+        font-size: 50px;
+    } 
+    .live-dates-title p {
+        font-size: 20px; 
+    }
+    .live-dates-title {
+        margin-bottom: 50px;
+    }
+    .header-area {
+        padding: 30px 0;  
+    }
+    .live-dates-area.live-dates {
+        padding-top: 290px; 
+    } 
+    .listen-music-area span.snape-two {
+        height: 320px;
+        width: 320px;
+        margin-left: -227px; 
+    }
+    .listen-music-area.live-date .snapes.one-snape {
+        left: 23%;
+        bottom: 0;
+        width: 130px;
+        height: 130px;
+        border-radius: 50%; 
+    }
+    .listen-music-area.live-date {
+        margin-top: -220px;
+    }
+    .listen-music-area.live-date img.background { 
+        top: -102px; 
+        z-index: -1;
+        height: 100%;
+        width: 100%; 
+        object-fit: cover;
+    }
+    .live-dates-area.live-dates {
+        padding-top: 200px;
+    }
+
+    .listen-music-area.live-date .container-fluid {
+        padding: 0 15px;
+    }
+    .music-item { 
+        margin: 0 0;
+    }
+    .music-item a { 
+        width: 40px;
+        height: 40px; 
+    }
+
+
+
+
+
+
+
+
+}
+ 
+/* Large Mobile screen :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.container {width:450px}
+ 
+}
